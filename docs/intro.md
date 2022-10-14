@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # 介绍
 
-Ant Admin 致力于提供给程序员一个能够**快速搭建且稳定的后台管理系统**。
+cra-ant-admin 致力于打造成一个能够快速完成业务且扩展性强的管理系统的项目模板。
 
 ## ✨ 特性
 
@@ -18,6 +18,7 @@ Ant Admin 致力于提供给程序员一个能够**快速搭建且稳定的后�
 * 🛡 使用 `TypeScript` 开发，提供完整的类型定义。
 * 👍 强大的 [redux-toolkit](https://redux-toolkit.js.org/) 让您可以专注于应用所需的核心逻辑。
 * 🌏 内置基于 [axios](https://www.axios-http.cn/) 网络请求库与后台服务进行交互。
+* 🚀 配置化表单快速完成编辑数据相关业务。
 * ⚙ 完全支持自定义页面及组件，重构（或扩展）内置组件，从容应对复杂业务场景。
 
 ## 🌳 兼容环境
@@ -28,7 +29,7 @@ Ant Admin 致力于提供给程序员一个能够**快速搭建且稳定的后�
 
 ## 🏠 温馨提示
 
-此项目模板基于create-react-app脚手架构建，且内置react-router-dom, redux-toolkit, antd, less等代码模板， 如果您的技术栈要求与此不同，不建议使用此模板。
+此项目模板基于create-react-app脚手架构建，且内置react-router-dom, redux-toolkit, antd, less等代码模板， 如果您的技术栈要求与此不同，建议此项目模板仅作参考。
 
 ## ❓ 缺点什么
 

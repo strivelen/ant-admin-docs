@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ant Admin',
+  title: 'CRA Ant Admin',
   tagline: 'Dinosaurs are cool',
   url: 'https://strivelen.github.io',
   baseUrl: '/ant-admin-docs/',
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ant Admin',
+        title: 'CRA Ant Admin',
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
