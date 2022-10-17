@@ -17,7 +17,7 @@ import CRUDTemplate from 'component/CRUDTemplate';
 
 `type: FieldsConfig[]`
 
-必传，表格列表筛选条件。
+必传，表格列表筛选条件。具体配置方式可查看 [Filter组件的 _fieldsConfig_ 属性](./filter#-fieldsconfig)
 
 ```tsx
 // 例子：
